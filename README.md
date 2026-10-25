@@ -139,7 +139,15 @@ This checks syntax only. Verify the actual inspector, permissions and exports in
 
 للتحديث بعد تعديل الملفات: اضغط **Reload** من صفحة الإضافات، ثم حدّث صفحة الموقع. الإضافة لا تعمل داخل صفحات إعدادات المتصفح ومتاجر الإضافات.
 
-## Attribution & rights
+## Copyright & attribution
+
+**© 2026 [Yousef Diab](https://github.com/yousefdiab611). All rights reserved for original contributions and customizations by Yousef Diab.**
+
+The original contributions and customizations by Yousef Diab may not be copied, modified, redistributed or used commercially without his prior written permission. This notice applies only to his contributions; third-party code and assets remain subject to their respective owners’ rights and terms.
+
+**حقوق التعديلات والإضافات الأصلية الخاصة بهذه النسخة محفوظة © 2026 لـ [Yousef Diab](https://github.com/yousefdiab611).**
+
+لا يجوز نسخ مساهماته الأصلية أو تعديلها أو إعادة توزيعها أو استخدامها تجاريًا دون إذن كتابي مسبق منه. يخص هذا الإشعار مساهماته فقط، وتظل حقوق الأكواد والأصول التابعة لأطراف أخرى محفوظة لأصحابها.
 
 This is a personal, modified build derived from **Design Toolkit — Element Inspector & Measurement 1.3.0**. The original tools and assets remain part of this codebase; it is not presented as an independently authored implementation. See the bundled [local-build notes](pixellens/README.txt).
 
